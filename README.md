@@ -1,2 +1,3 @@
-# php-PSR0-AutoLoader
-PSR-0 compliant auto-loader
+*Cleaning out my hard drives; this project is not maintained.*
+
+Any and all documentation is inline with code.
